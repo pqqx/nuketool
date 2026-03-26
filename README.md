@@ -1,2 +1,3 @@
 # nuketool
 nuketool release
+skidder対策のためオープンソースではないので自分で解析してください
